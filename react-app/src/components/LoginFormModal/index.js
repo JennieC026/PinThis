@@ -74,7 +74,7 @@ function LoginFormModal() {
   return (
     <div className="log-wrap">
       <img
-        src="https://flavoreatsbucket.s3.us-west-2.amazonaws.com/pinlogo_copy.png"
+        src="/pinlogo.png"
         alt="PinThis"
         id="navigation-title-img"
       />
